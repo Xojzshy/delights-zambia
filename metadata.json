@@ -1,0 +1,6 @@
+{
+  "name": "Delights Zambia",
+  "description": "Premium desserts and handcrafted beverages at Arcades Shopping Mall, Lusaka, Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
